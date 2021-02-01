@@ -18,7 +18,7 @@ public class CALCULADORA_CONSOLA {
             
             // Despliegue del menu
             
-            System.out.println("\t\tMENU");
+            System.out.println("\t\tMATH CALCULATOR");
             
             System.out.println("\t1. SUMA.\n\t2. RESTA.\n\t3. MULTIPLICACION.\n\t4. DIVISION.");
             System.out.println("\t5. SENO.\n\t6. COSENO.\n\t7. TANGENTE.");
